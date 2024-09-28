@@ -35,7 +35,7 @@ const LoveLetter = () => {
       <div className="flap"></div>
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
-        My dear FaaFa,<br />
+        My dear Faafa🤍♾️,<br />
         Happy Birthday <br />
         Always Keep Smiling<br />
         yours lovingly,<br />
